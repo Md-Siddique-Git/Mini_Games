@@ -1,0 +1,9 @@
+body{
+    background-color: #3b3131;
+    color: rgb(255, 247, 247);
+}
+.border-1{
+    border: green solid 10px;
+    border-radius: 30px;
+    box-shadow: inset 0 0 0 10px white;
+}
